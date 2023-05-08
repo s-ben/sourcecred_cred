@@ -1,0 +1,51 @@
+[
+    {
+        "type": "sourcecred/initiativeFile",
+        "version": "0.2.0"
+    },
+    {
+        "title": "Community call 20220525",
+        "timestampIso": "2023-05-01T22:01:57.733Z",
+        "weight": {
+            "incomplete": 13.8,
+            "complete": 13.8
+        },
+        "completed": true,
+        "contributions": {
+            "entries": [
+                {
+                    "title": "Hero-Gamer participate",
+                    "weight": 3.45,
+                    "timestampIso": "2023-05-01T22:01:57.733Z",
+                    "contributors": [
+                        "@Hero-Gamer"
+                    ]
+                },
+                {
+                    "title": "merrick participate",
+                    "weight": 3.45,
+                    "timestampIso": "2023-05-01T22:01:57.733Z",
+                    "contributors": [
+                        "@merrick"
+                    ]
+                },
+                {
+                    "title": "marcie participate",
+                    "weight": 3.45,
+                    "timestampIso": "2023-05-01T22:01:57.733Z",
+                    "contributors": [
+                        "@marcie"
+                    ]
+                },
+                {
+                    "title": "ALOYSIOUS participate",
+                    "weight": 3.45,
+                    "timestampIso": "2023-05-01T22:01:57.733Z",
+                    "contributors": [
+                        "@al0ysi0us"
+                    ]
+                }
+            ]
+        }
+    }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "type": "sourcecred/initiativeFile",
+        "version": "0.2.0"
+    },
+    {
+        "title": "Community call 20220518",
+        "timestampIso": "2023-05-01T22:01:57.733Z",
+        "weight": {
+            "incomplete": 13.8,
+            "complete": 13.8
+        },
+        "completed": true,
+        "contributions": {
+            "entries": [
+                {
+                    "title": "merrick facilitate",
+                    "weight": 4.14,
+                    "timestampIso": "2023-05-01T22:01:57.733Z",
+                    "contributors": [
+                        "@al0ysi0us"
+                    ]
+                },
+                {
+                    "title": "merrick participate",
+                    "weight": 3.2199999999999998,
+                    "timestampIso": "2023-05-01T22:01:57.733Z",
+                    "contributors": [
+                        "@merrick"
+                    ]
+                },
+                {
+                    "title": "al0ysi0us participate",
+                    "weight": 3.2199999999999998,
+                    "timestampIso": "2023-05-01T22:01:57.733Z",
+                    "contributors": [
+                        "@al0ysi0us"
+                    ]
+                },
+                {
+                    "title": "s-ben participate",
+                    "weight": 3.2199999999999998,
+                    "timestampIso": "2023-05-01T22:01:57.733Z",
+                    "contributors": [
+                        "@s-ben"
+                    ]
+                }
+            ]
+        }
+    }
+]

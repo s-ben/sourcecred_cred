@@ -1,0 +1,51 @@
+[
+    {
+        "type": "sourcecred/initiativeFile",
+        "version": "0.2.0"
+    },
+    {
+        "title": "Community call 20230405",
+        "timestampIso": "2023-05-01T22:01:57.733Z",
+        "weight": {
+            "incomplete": 13.8,
+            "complete": 13.8
+        },
+        "completed": true,
+        "contributions": {
+            "entries": [
+                {
+                    "title": "s-ben participate",
+                    "weight": 3.45,
+                    "timestampIso": "2023-05-01T22:01:57.733Z",
+                    "contributors": [
+                        "@s-ben"
+                    ]
+                },
+                {
+                    "title": "marsrobertson participates",
+                    "weight": 3.45,
+                    "timestampIso": "2023-05-01T22:01:57.733Z",
+                    "contributors": [
+                        "@marsrobertson"
+                    ]
+                },
+                {
+                    "title": "marcieparticipate",
+                    "weight": 3.45,
+                    "timestampIso": "2023-05-01T22:01:57.733Z",
+                    "contributors": [
+                        "marcie"
+                    ]
+                },
+                {
+                    "title": "al0ysi0us participate",
+                    "weight": 3.45,
+                    "timestampIso": "2023-05-01T22:01:57.733Z",
+                    "contributors": [
+                        "al0ysi0us"
+                    ]
+                }
+            ]
+        }
+    }
+]

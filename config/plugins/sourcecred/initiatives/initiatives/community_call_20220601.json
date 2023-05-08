@@ -1,0 +1,43 @@
+[
+    {
+        "type": "sourcecred/initiativeFile",
+        "version": "0.2.0"
+    },
+    {
+        "title": "Community call 20220525",
+        "timestampIso": "2023-05-01T22:01:57.733Z",
+        "weight": {
+            "incomplete": 13.8,
+            "complete": 13.8
+        },
+        "completed": true,
+        "contributions": {
+            "entries": [
+                {
+                    "title": "ALOYSIOUS facilitate",
+                    "weight": 4.14,
+                    "timestampIso": "2023-05-01T22:01:57.733Z",
+                    "contributors": [
+                        "@al0ysi0us"
+                    ]
+                },
+                {
+                    "title": "ALOYSIOUS participate",
+                    "weight": 4.83,
+                    "timestampIso": "2023-05-01T22:01:57.733Z",
+                    "contributors": [
+                        "@al0ysi0us"
+                    ]
+                },
+                {
+                    "title": "sandra participate",
+                    "weight": 4.83,
+                    "timestampIso": "2023-05-01T22:01:57.733Z",
+                    "contributors": [
+                        "@sandra"
+                    ]
+                }
+            ]
+        }
+    }
+]

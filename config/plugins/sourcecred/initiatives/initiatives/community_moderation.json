@@ -1,0 +1,37 @@
+[
+  {
+    "type": "sourcecred/initiativeFile",
+    "version": "0.2.0"
+  },
+  {
+    "title": "Development",
+    "timestampIso": "2023-05-01T22:01:57.733Z",
+    "weight": {
+      "incomplete": 150,
+      "complete": 150
+    },
+    "completed": true,
+    "contributions": {
+      "entries": [
+        {
+          "title": "al0ysi0us participate",
+          "weight": 127.5,
+          "timestampIso": "2023-05-01T22:01:57.733Z",
+          "contributors": ["@al0ysi0us"]
+        },
+        {
+          "title": "HartVyne participate",
+          "weight": 5.25,
+          "timestampIso": "2023-05-01T22:01:57.733Z",
+          "contributors": ["@HartVyne"]
+        },
+        {
+          "title": "s-ben participate",
+          "weight": 7.5,
+          "timestampIso": "2023-05-01T22:01:57.733Z",
+          "contributors": ["@s-ben"]
+        }
+      ]
+    }
+  }
+]

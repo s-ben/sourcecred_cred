@@ -1,0 +1,37 @@
+[
+  {
+    "type": "sourcecred/initiativeFile",
+    "version": "0.2.0"
+  },
+  {
+    "title": "Grants",
+    "timestampIso": "2023-05-01T22:01:57.733Z",
+    "weight": {
+      "incomplete": 100,
+      "complete": 100
+    },
+    "completed": true,
+    "contributions": {
+      "entries": [
+        {
+          "title": "benoxmo participate",
+          "weight": 30,
+          "timestampIso": "2023-05-01T22:01:57.733Z",
+          "contributors": ["@benoxmo"]
+        },
+        {
+          "title": "s-ben participate",
+          "weight": 50,
+          "timestampIso": "2023-05-01T22:01:57.733Z",
+          "contributors": ["@s-ben"]
+        },
+        {
+          "title": "al0ysi0us participate",
+          "weight": 20,
+          "timestampIso": "2023-05-01T22:01:57.733Z",
+          "contributors": ["@al0ysi0us"]
+        }
+      ]
+    }
+  }
+]

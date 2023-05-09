@@ -1,0 +1,43 @@
+[
+    {
+        "type": "sourcecred/initiativeFile",
+        "version": "0.2.0"
+    },
+    {
+        "title": "Playtime 20240426",
+        "timestampIso": "2023-05-01T22:01:57.733Z",
+        "weight": {
+            "incomplete": 13.8,
+            "complete": 13.8
+        },
+        "completed": true,
+        "contributions": {
+            "entries": [
+                {
+                    "title": "Facilitate playtime",
+                    "weight": 4.14,
+                    "timestampIso": "2023-05-01T22:01:57.733Z",
+                    "contributors": [
+                        "@marcie"
+                    ]
+                },
+                {
+                    "title": "Marcie participate",
+                    "weight": 4.83,
+                    "timestampIso": "2023-05-01T22:01:57.733Z",
+                    "contributors": [
+                        "@marcie"
+                    ]
+                },
+                {
+                    "title": "s_ben participate",
+                    "weight": 4.83,
+                    "timestampIso": "2023-05-01T22:01:57.733Z",
+                    "contributors": [
+                        "@s-ben"
+                    ]
+                }
+            ]
+        }
+    }
+]

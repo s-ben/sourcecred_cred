@@ -1,0 +1,61 @@
+[
+  {
+    "type": "sourcecred/initiativeFile",
+    "version": "0.2.0"
+  },
+  {
+    "title": "Community general",
+    "timestampIso": "2023-05-01T22:01:57.733Z",
+    "weight": {
+      "incomplete": 130,
+      "complete": 130
+    },
+    "completed": true,
+    "contributions": {
+      "entries": [
+        {
+          "title": "al0ysi0us participate",
+          "weight": 15,
+          "timestampIso": "2023-05-01T22:01:57.733Z",
+          "contributors": ["@al0ysi0us"]
+        },
+        {
+          "title": "marcie participate",
+          "weight": 15,
+          "timestampIso": "2023-05-01T22:01:57.733Z",
+          "contributors": ["@marcie"]
+        },
+        {
+          "title": "s-ben participate",
+          "weight": 70,
+          "timestampIso": "2023-05-01T22:01:57.733Z",
+          "contributors": ["@s-ben"]
+        },
+        {
+          "title": "marsrobertson participate",
+          "weight": 11.25,
+          "timestampIso": "2023-05-01T22:01:57.733Z",
+          "contributors": ["@marsrobertson"]
+        },
+        {
+          "title": "whatsinaname participate",
+          "weight": 6.25,
+          "timestampIso": "2023-05-01T22:01:57.733Z",
+          "contributors": ["@whatsinaname"]
+        },
+        {
+          "title": "dysbulic participate",
+          "weight": 6.25,
+          "timestampIso": "2023-05-01T22:01:57.733Z",
+          "contributors": ["@dysbulic"]
+        },
+        {
+          "title": "benoxmo participate",
+          "weight": 6.25,
+          "timestampIso": "2023-05-01T22:01:57.733Z",
+          "contributors": ["@benoxmo"]
+        }
+      ]
+    }
+  }
+]

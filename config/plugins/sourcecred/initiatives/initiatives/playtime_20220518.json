@@ -7,15 +7,15 @@
         "title": "Playtime 20220518",
         "timestampIso": "2023-05-01T22:01:57.733Z",
         "weight": {
-            "incomplete": 5.42,
-            "complete": 5.42
+            "incomplete": 7.046,
+            "complete": 7.046
         },
         "completed": true,
         "contributions": {
             "entries": [
                 {
                     "title": "al0ysi0us playtime",
-                    "weight": 1.355,
+                    "weight": 1.7615,
                     "timestampIso": "2023-05-01T22:01:57.733Z",
                     "contributors": [
                         "@al0ysi0us"
@@ -23,7 +23,7 @@
                 },
                 {
                     "title": "s_ben participate",
-                    "weight": 1.355,
+                    "weight": 1.7615,
                     "timestampIso": "2023-05-01T22:01:57.733Z",
                     "contributors": [
                         "@s-ben"
@@ -31,7 +31,7 @@
                 },
                 {
                     "title": "merrick participate",
-                    "weight": 1.355,
+                    "weight": 1.7615,
                     "timestampIso": "2023-05-01T22:01:57.733Z",
                     "contributors": [
                         "@merrick"
@@ -39,7 +39,7 @@
                 },
                 {
                     "title": "ALOYSIOUS participate",
-                    "weight": 1.355,
+                    "weight": 1.7615,
                     "timestampIso": "2023-05-01T22:01:57.733Z",
                     "contributors": [
                         "@al0ysi0us"

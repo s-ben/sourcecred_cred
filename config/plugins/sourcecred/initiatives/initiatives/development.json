@@ -7,21 +7,21 @@
     "title": "Development",
     "timestampIso": "2023-05-01T22:01:57.733Z",
     "weight": {
-      "incomplete": 200,
-      "complete": 200
+      "incomplete": 240,
+      "complete": 240
     },
     "completed": true,
     "contributions": {
       "entries": [
         {
           "title": "Alec participate",
-          "weight": 130,
+          "weight": 150,
           "timestampIso": "2023-05-01T22:01:57.733Z",
           "contributors": ["@Alec"]
         },
         {
           "title": "dysbulic participate",
-          "weight": 40,
+          "weight": 60,
           "timestampIso": "2023-05-01T22:01:57.733Z",
           "contributors": ["@dysbulic"]
         },

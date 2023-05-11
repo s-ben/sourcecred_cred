@@ -7,8 +7,8 @@
     "title": "Community general",
     "timestampIso": "2023-05-01T22:01:57.733Z",
     "weight": {
-      "incomplete": 130,
-      "complete": 130
+      "incomplete": 265,
+      "complete": 265
     },
     "completed": true,
     "contributions": {
@@ -21,39 +21,15 @@
         },
         {
           "title": "marcie participate",
-          "weight": 15,
+          "weight": 150,
           "timestampIso": "2023-05-01T22:01:57.733Z",
           "contributors": ["@marcie"]
         },
         {
           "title": "s-ben participate",
-          "weight": 70,
+          "weight": 45,
           "timestampIso": "2023-05-01T22:01:57.733Z",
           "contributors": ["@s-ben"]
-        },
-        {
-          "title": "marsrobertson participate",
-          "weight": 11.25,
-          "timestampIso": "2023-05-01T22:01:57.733Z",
-          "contributors": ["@marsrobertson"]
-        },
-        {
-          "title": "whatsinaname participate",
-          "weight": 6.25,
-          "timestampIso": "2023-05-01T22:01:57.733Z",
-          "contributors": ["@whatsinaname"]
-        },
-        {
-          "title": "dysbulic participate",
-          "weight": 6.25,
-          "timestampIso": "2023-05-01T22:01:57.733Z",
-          "contributors": ["@dysbulic"]
-        },
-        {
-          "title": "benoxmo participate",
-          "weight": 6.25,
-          "timestampIso": "2023-05-01T22:01:57.733Z",
-          "contributors": ["@benoxmo"]
         }
       ]
     }

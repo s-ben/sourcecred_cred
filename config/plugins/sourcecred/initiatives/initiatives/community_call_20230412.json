@@ -7,15 +7,15 @@
         "title": "Community call 20230412",
         "timestampIso": "2023-05-01T22:01:57.733Z",
         "weight": {
-            "incomplete": 13.8,
-            "complete": 13.8
+            "incomplete": 22,
+            "complete": 22
         },
         "completed": true,
         "contributions": {
             "entries": [
                 {
                     "title": "s-ben participate",
-                    "weight": 6.9,
+                    "weight": 11.0,
                     "timestampIso": "2023-05-01T22:01:57.733Z",
                     "contributors": [
                         "@s-ben"
@@ -23,7 +23,7 @@
                 },
                 {
                     "title": "marcie participates",
-                    "weight": 6.9,
+                    "weight": 11.0,
                     "timestampIso": "2023-05-01T22:01:57.733Z",
                     "contributors": [
                         "@marcie"

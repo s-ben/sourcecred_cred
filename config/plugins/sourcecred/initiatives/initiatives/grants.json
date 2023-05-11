@@ -7,15 +7,15 @@
     "title": "Grants",
     "timestampIso": "2023-05-01T22:01:57.733Z",
     "weight": {
-      "incomplete": 100,
-      "complete": 100
+      "incomplete": 130,
+      "complete": 130
     },
     "completed": true,
     "contributions": {
       "entries": [
         {
           "title": "benoxmo participate",
-          "weight": 30,
+          "weight": 60,
           "timestampIso": "2023-05-01T22:01:57.733Z",
           "contributors": ["@benoxmo"]
         },

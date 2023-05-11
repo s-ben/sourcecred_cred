@@ -7,15 +7,15 @@
         "title": "Playtime 20240412",
         "timestampIso": "2023-05-01T22:01:57.733Z",
         "weight": {
-            "incomplete": 5.42,
-            "complete": 5.42
+            "incomplete": 15,
+            "complete": 15
         },
         "completed": true,
         "contributions": {
             "entries": [
                 {
                     "title": "Facilitate playtime",
-                    "weight": 1.626,
+                    "weight": 4.5,
                     "timestampIso": "2023-05-01T22:01:57.733Z",
                     "contributors": [
                         "@marcie"
@@ -23,7 +23,7 @@
                 },
                 {
                     "title": "Marcie participate",
-                    "weight": 1.8969999999999998,
+                    "weight": 5.25,
                     "timestampIso": "2023-05-01T22:01:57.733Z",
                     "contributors": [
                         "@marcie"
@@ -31,7 +31,7 @@
                 },
                 {
                     "title": "s_ben participate",
-                    "weight": 1.8969999999999998,
+                    "weight": 5.25,
                     "timestampIso": "2023-05-01T22:01:57.733Z",
                     "contributors": [
                         "@s-ben"

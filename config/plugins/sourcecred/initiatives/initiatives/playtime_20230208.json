@@ -7,15 +7,15 @@
         "title": "Playtime 20230208",
         "timestampIso": "2023-05-01T22:01:57.733Z",
         "weight": {
-            "incomplete": 5.42,
-            "complete": 5.42
+            "incomplete": 15,
+            "complete": 15
         },
         "completed": true,
         "contributions": {
             "entries": [
                 {
                     "title": "Facilitate playtime",
-                    "weight": 1.626,
+                    "weight": 4.5,
                     "timestampIso": "2023-05-01T22:01:57.733Z",
                     "contributors": [
                         "@marcie"
@@ -23,7 +23,7 @@
                 },
                 {
                     "title": "Marcie participate",
-                    "weight": 0.9484999999999999,
+                    "weight": 2.625,
                     "timestampIso": "2023-05-01T22:01:57.733Z",
                     "contributors": [
                         "@marcie"
@@ -31,23 +31,15 @@
                 },
                 {
                     "title": "s_ben participate",
-                    "weight": 0.9484999999999999,
+                    "weight": 2.625,
                     "timestampIso": "2023-05-01T22:01:57.733Z",
                     "contributors": [
                         "@s-ben"
                     ]
                 },
                 {
-                    "title": "sandra participate",
-                    "weight": 0.9484999999999999,
-                    "timestampIso": "2023-05-01T22:01:57.733Z",
-                    "contributors": [
-                        "@sandra"
-                    ]
-                },
-                {
                     "title": "ALOYSIOUS participate",
-                    "weight": 0.9484999999999999,
+                    "weight": 2.625,
                     "timestampIso": "2023-05-01T22:01:57.733Z",
                     "contributors": [
                         "@al0ysi0us"

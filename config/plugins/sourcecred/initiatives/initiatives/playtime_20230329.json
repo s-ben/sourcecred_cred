@@ -7,15 +7,15 @@
         "title": "Playtime 20230315",
         "timestampIso": "2023-05-01T22:01:57.733Z",
         "weight": {
-            "incomplete": 5.42,
-            "complete": 5.42
+            "incomplete": 15,
+            "complete": 15
         },
         "completed": true,
         "contributions": {
             "entries": [
                 {
                     "title": "s_ben participate",
-                    "weight": 2.71,
+                    "weight": 7.5,
                     "timestampIso": "2023-05-01T22:01:57.733Z",
                     "contributors": [
                         "@s-ben"
@@ -23,7 +23,7 @@
                 },
                 {
                     "title": "ALOYSIOUS participate",
-                    "weight": 2.71,
+                    "weight": 7.5,
                     "timestampIso": "2023-05-01T22:01:57.733Z",
                     "contributors": [
                         "@al0ysi0us"

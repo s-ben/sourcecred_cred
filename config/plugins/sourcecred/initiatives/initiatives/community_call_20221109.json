@@ -7,15 +7,15 @@
         "title": "Community call 20220525",
         "timestampIso": "2023-05-01T22:01:57.733Z",
         "weight": {
-            "incomplete": 13.8,
-            "complete": 13.8
+            "incomplete": 22,
+            "complete": 22
         },
         "completed": true,
         "contributions": {
             "entries": [
                 {
                     "title": "al0ysi0us facilitate",
-                    "weight": 4.14,
+                    "weight": 6.6,
                     "timestampIso": "2023-05-01T22:01:57.733Z",
                     "contributors": [
                         "@al0ysi0us"
@@ -23,7 +23,7 @@
                 },
                 {
                     "title": "al0ysi0us participate",
-                    "weight": 3.2199999999999998,
+                    "weight": 5.133333333333333,
                     "timestampIso": "2023-05-01T22:01:57.733Z",
                     "contributors": [
                         "@al0ysi0us"
@@ -31,7 +31,7 @@
                 },
                 {
                     "title": "marcie participate",
-                    "weight": 3.2199999999999998,
+                    "weight": 5.133333333333333,
                     "timestampIso": "2023-05-01T22:01:57.733Z",
                     "contributors": [
                         "@marcie"
@@ -39,7 +39,7 @@
                 },
                 {
                     "title": "s-ben participate",
-                    "weight": 3.2199999999999998,
+                    "weight": 5.133333333333333,
                     "timestampIso": "2023-05-01T22:01:57.733Z",
                     "contributors": [
                         "@s-ben"
